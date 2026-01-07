@@ -1,0 +1,1 @@
+print(dai haru ramro xain)
